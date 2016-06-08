@@ -1,4 +1,6 @@
-##### I didn't mapped entities and didn't cover all scenarios due to the limited time.
+### Twitter API test   image:https://travis-ci.org/travis-ci/travis-cli-gh.svg?branch=master["Build Status", link="https://travis-ci.org/travis-ci/travis-cli-gh"]
+
+##### I didn't mapped entities and didn't cover all scenarios due to the limited time. 
 ##### But I tried to show my vision.
 
 * Language: **Java**
