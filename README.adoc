@@ -5,6 +5,7 @@
 * Testing framework: **TestNG**
 * Builder: **Maven**
 * Reporter/logger: **Allure**
+* CI: **Travis CI**
 
 ###### I saved previous running reports and you can find it here:
 ```
