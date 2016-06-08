@@ -1,0 +1,47 @@
+{
+  "uid" : "2b8fa44f2cb95fb5",
+  "name" : "checkSuccessfulPost",
+  "title" : "Check successful post",
+  "time" : {
+    "start" : 1465387746213,
+    "stop" : 1465387751984,
+    "duration" : 5771
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "d79854b4f6d1dc47",
+    "name" : "Twitter post test : Twitter post test",
+    "title" : "Twitter post test : Twitter post test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "thread",
+    "value" : "13864@PC-175.main(1)"
+  }, {
+    "name" : "suite-title",
+    "value" : "Twitter post test : Twitter post test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "PC-175"
+  }, {
+    "name" : "suite-name",
+    "value" : "Twitter post test : Twitter post test"
+  } ],
+  "parameters" : [ ]
+}

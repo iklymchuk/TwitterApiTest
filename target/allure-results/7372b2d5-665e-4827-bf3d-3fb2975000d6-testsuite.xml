@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1465389905848" stop="1465389921890" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Twitter post test : Twitter post test</name>
+    <title>Twitter post test : Twitter post test</title>
+    <test-cases>
+        <test-case start="1465389914519" stop="1465389920281" status="passed">
+            <name>checkSuccessfulPost</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="critical"/>
+                <label name="story" value="Check successful post"/>
+                <label name="feature" value="Check posting availability using Twitter API"/>
+                <label name="host" value="PC-175"/>
+                <label name="thread" value="14767@PC-175.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1465389920360" stop="1465389921104" status="passed">
+            <name>checkDublicatePost</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="critical"/>
+                <label name="story" value="Check dublicate post"/>
+                <label name="feature" value="Check posting availability using Twitter API"/>
+                <label name="host" value="PC-175"/>
+                <label name="thread" value="14767@PC-175.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1465389921108" stop="1465389921878" status="passed">
+            <name>checkPostEmptyRequiredParameter</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="critical"/>
+                <label name="story" value="Check post with empty required parameter"/>
+                <label name="feature" value="Check posting availability using Twitter API"/>
+                <label name="host" value="PC-175"/>
+                <label name="thread" value="14767@PC-175.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

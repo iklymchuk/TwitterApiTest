@@ -1,0 +1,56 @@
+{
+  "uid" : "79e7007a9fc2da05",
+  "name" : "checkPostEmptyRequiredParameter",
+  "title" : "Check post empty required parameter",
+  "time" : {
+    "start" : 1465389921108,
+    "stop" : 1465389921878,
+    "duration" : 770
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "CRITICAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f6583e6c007f76b5",
+    "name" : "Twitter post test : Twitter post test",
+    "title" : "Twitter post test : Twitter post test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "14767@PC-175.main(1)"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Twitter post test : Twitter post test"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "feature",
+    "value" : "Check posting availability using Twitter API"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "story",
+    "value" : "Check post with empty required parameter"
+  }, {
+    "name" : "host",
+    "value" : "PC-175"
+  }, {
+    "name" : "suite-name",
+    "value" : "Twitter post test : Twitter post test"
+  } ],
+  "parameters" : [ ]
+}

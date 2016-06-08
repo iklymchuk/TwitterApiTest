@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1465389165173" stop="1465389179270" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Twitter post test : Twitter post test</name>
+    <title>Twitter post test : Twitter post test</title>
+    <test-cases>
+        <test-case start="1465389173682" stop="1465389179161" status="passed">
+            <name>checkDublicatePost</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="minor"/>
+                <label name="story" value="Check dublicate post"/>
+                <label name="feature" value="Check posting availability using Twitter API"/>
+                <label name="host" value="PC-175"/>
+                <label name="thread" value="14417@PC-175.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

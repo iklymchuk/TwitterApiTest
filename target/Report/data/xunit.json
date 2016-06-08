@@ -1,0 +1,203 @@
+{
+  "time" : {
+    "start" : 1465387746213,
+    "stop" : 1465389921878,
+    "duration" : 2175665
+  },
+  "testSuites" : [ {
+    "uid" : "f6583e6c007f76b5",
+    "name" : "Twitter post test : Twitter post test",
+    "title" : "Twitter post test : Twitter post test",
+    "time" : {
+      "start" : 1465387746213,
+      "stop" : 1465389921878,
+      "duration" : 2175665
+    },
+    "statistic" : {
+      "total" : 16,
+      "passed" : 11,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 4,
+      "broken" : 1
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "586548395b6490c",
+      "name" : "checkSuccessfulPost",
+      "title" : "Check successful post",
+      "time" : {
+        "start" : 1465389859974,
+        "stop" : 1465389866201,
+        "duration" : 6227
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "568e659db36c7f12",
+      "name" : "checkDublicatePost",
+      "title" : "Check dublicate post",
+      "time" : {
+        "start" : 1465389866287,
+        "stop" : 1465389867027,
+        "duration" : 740
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e7d7f1af51b00835",
+      "name" : "checkPostEmptyRequiredParameter",
+      "title" : "Check post empty required parameter",
+      "time" : {
+        "start" : 1465389867029,
+        "stop" : 1465389867833,
+        "duration" : 804
+      },
+      "severity" : "CRITICAL",
+      "status" : "FAILED"
+    }, {
+      "uid" : "566485be66620adc",
+      "name" : "checkDublicatePost",
+      "title" : "Check dublicate post",
+      "time" : {
+        "start" : 1465389042448,
+        "stop" : 1465389047927,
+        "duration" : 5479
+      },
+      "severity" : "MINOR",
+      "status" : "FAILED"
+    }, {
+      "uid" : "a1ae165fd9ba22a8",
+      "name" : "checkSuccessfulPost",
+      "title" : "Check successful post",
+      "time" : {
+        "start" : 1465387746213,
+        "stop" : 1465387751984,
+        "duration" : 5771
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "dd2bbb46af839ed8",
+      "name" : "checkSuccessfulPost",
+      "title" : "Check successful post",
+      "time" : {
+        "start" : 1465387746213,
+        "stop" : 1465387751984,
+        "duration" : 5771
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "e2445d01c61b0f4e",
+      "name" : "checkSuccessfulPost",
+      "title" : "Check successful post",
+      "time" : {
+        "start" : 1465389640308,
+        "stop" : 1465389645947,
+        "duration" : 5639
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "285d4f4b5fd8f721",
+      "name" : "checkDublicatePost",
+      "title" : "Check dublicate post",
+      "time" : {
+        "start" : 1465389646048,
+        "stop" : 1465389646877,
+        "duration" : 829
+      },
+      "severity" : "CRITICAL",
+      "status" : "FAILED"
+    }, {
+      "uid" : "854914c769197a72",
+      "name" : "checkPostEmptyRequiredParameter",
+      "title" : "Check post empty required parameter",
+      "time" : {
+        "start" : 1465389646878,
+        "stop" : 1465389646893,
+        "duration" : 15
+      },
+      "severity" : "CRITICAL",
+      "status" : "BROKEN"
+    }, {
+      "uid" : "ae45b420467aa4cc",
+      "name" : "checkDublicatePost",
+      "title" : "Check dublicate post",
+      "time" : {
+        "start" : 1465389173682,
+        "stop" : 1465389179161,
+        "duration" : 5479
+      },
+      "severity" : "MINOR",
+      "status" : "PASSED"
+    }, {
+      "uid" : "70fecb5a9c32174f",
+      "name" : "checkSuccessfulPost",
+      "title" : "Check successful post",
+      "time" : {
+        "start" : 1465389796011,
+        "stop" : 1465389802059,
+        "duration" : 6048
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "d4ffc398a514d30f",
+      "name" : "checkDublicatePost",
+      "title" : "Check dublicate post",
+      "time" : {
+        "start" : 1465389802168,
+        "stop" : 1465389802900,
+        "duration" : 732
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "449a2045d2ffe40a",
+      "name" : "checkPostEmptyRequiredParameter",
+      "title" : "Check post empty required parameter",
+      "time" : {
+        "start" : 1465389802906,
+        "stop" : 1465389803728,
+        "duration" : 822
+      },
+      "severity" : "CRITICAL",
+      "status" : "FAILED"
+    }, {
+      "uid" : "12108e569ef771b5",
+      "name" : "checkSuccessfulPost",
+      "title" : "Check successful post",
+      "time" : {
+        "start" : 1465389914519,
+        "stop" : 1465389920281,
+        "duration" : 5762
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "58f0a5f7a9767b59",
+      "name" : "checkDublicatePost",
+      "title" : "Check dublicate post",
+      "time" : {
+        "start" : 1465389920360,
+        "stop" : 1465389921104,
+        "duration" : 744
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "79e7007a9fc2da05",
+      "name" : "checkPostEmptyRequiredParameter",
+      "title" : "Check post empty required parameter",
+      "time" : {
+        "start" : 1465389921108,
+        "stop" : 1465389921878,
+        "duration" : 770
+      },
+      "severity" : "CRITICAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

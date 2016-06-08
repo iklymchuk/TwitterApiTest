@@ -1,0 +1,78 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 16,
+      "passed" : 11,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 4,
+      "broken" : 1
+    },
+    "time" : {
+      "start" : 1465387746213,
+      "stop" : 1465389921878,
+      "duration" : 2175665
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 2,
+      "message" : "AssertionError: Expected status code <400> doesn't match actual status code <403>.\n",
+      "status" : "FAILED"
+    }, {
+      "count" : 2,
+      "message" : "AssertionError: Expected status code <200> doesn't match actual status code <403>.\n",
+      "status" : "FAILED"
+    }, {
+      "count" : 1,
+      "message" : "IllegalArgumentException: You specified too few path parameters to the request, failed to find path parameter with name 'status'.",
+      "status" : "BROKEN"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Twitter post test : Twitter post test",
+      "statistic" : {
+        "total" : 16,
+        "passed" : 11,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 4,
+        "broken" : 1
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "Check posting availability using Twitter API",
+      "statistic" : {
+        "total" : 14,
+        "passed" : 9,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 4,
+        "broken" : 1
+      }
+    }, {
+      "title" : "Without feature",
+      "statistic" : {
+        "total" : 2,
+        "passed" : 2,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

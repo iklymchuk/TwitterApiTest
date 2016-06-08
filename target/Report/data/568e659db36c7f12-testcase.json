@@ -1,0 +1,56 @@
+{
+  "uid" : "568e659db36c7f12",
+  "name" : "checkDublicatePost",
+  "title" : "Check dublicate post",
+  "time" : {
+    "start" : 1465389866287,
+    "stop" : 1465389867027,
+    "duration" : 740
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 0
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "CRITICAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "f6583e6c007f76b5",
+    "name" : "Twitter post test : Twitter post test",
+    "title" : "Twitter post test : Twitter post test"
+  },
+  "steps" : [ ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "suite-title",
+    "value" : "Twitter post test : Twitter post test"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "Check dublicate post"
+  }, {
+    "name" : "feature",
+    "value" : "Check posting availability using Twitter API"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "host",
+    "value" : "PC-175"
+  }, {
+    "name" : "thread",
+    "value" : "14712@PC-175.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Twitter post test : Twitter post test"
+  } ],
+  "parameters" : [ ]
+}

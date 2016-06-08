@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Twitter post test" duration-ms="15174" started-at="2016-06-08T12:08:56Z" finished-at="2016-06-08T12:09:12Z">
+    <groups>
+      <group name="critical">
+        <method signature="TwitterPostTest.checkSuccessfulPost()[pri:0, instance:com.klymchuk.test.TwitterPostTest@1136b469]" name="checkSuccessfulPost" class="com.klymchuk.test.TwitterPostTest"/>
+      </group> <!-- critical -->
+    </groups>
+    <test name="Twitter post test" duration-ms="15174" started-at="2016-06-08T12:08:56Z" finished-at="2016-06-08T12:09:12Z">
+      <class name="com.klymchuk.test.TwitterPostTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.klymchuk.test.TwitterPostTest@1136b469]" name="init" is-config="true" duration-ms="9163" started-at="2016-06-08T15:08:57Z" finished-at="2016-06-08T15:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="checkSuccessfulPost()[pri:0, instance:com.klymchuk.test.TwitterPostTest@1136b469]" name="checkSuccessfulPost" duration-ms="5806" started-at="2016-06-08T15:09:06Z" finished-at="2016-06-08T15:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkSuccessfulPost -->
+      </class> <!-- com.klymchuk.test.TwitterPostTest -->
+    </test> <!-- Twitter post test -->
+  </suite> <!-- Twitter post test -->
+</testng-results>

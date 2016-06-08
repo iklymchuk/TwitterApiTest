@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Twitter post test" verbose="1" >
+    <test name="Twitter post test" >
+        <classes>
+            <class name="com.klymchuk.test.TwitterPostTest" />
+        </classes>
+    </test>
+
+
+</suite>

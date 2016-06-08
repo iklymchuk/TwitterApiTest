@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1465387736974" stop="1465387752104" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Twitter post test : Twitter post test</name>
+    <title>Twitter post test : Twitter post test</title>
+    <test-cases>
+        <test-case start="1465387746213" stop="1465387751984" status="passed">
+            <name>checkSuccessfulPost</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC-175"/>
+                <label name="thread" value="13864@PC-175.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1465387746213" stop="1465387751984" status="passed">
+            <name>checkSuccessfulPost</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="PC-175"/>
+                <label name="thread" value="13864@PC-175.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
