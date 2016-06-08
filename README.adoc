@@ -1,0 +1,12 @@
+##### I didn't mapped entities and didn't cover all scenarios due to the limited time.
+##### But I tried to show my vision.
+
+* Language: **Java**
+* Testing framework: **TestNG**
+* Builder: **Maven**
+* Reporter/logger: **Allure**
+
+###### I saved previous running reports and you can find it here:
+```
+./target/Report/index.html
+```
