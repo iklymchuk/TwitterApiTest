@@ -1,7 +1,7 @@
 ### Twitter API test   image:https://travis-ci.org/travis-ci/travis-cli-gh.svg?branch=master["Build Status", link="https://travis-ci.org/travis-ci/travis-cli-gh"]
 
 ##### I didn't mapped entities and didn't cover all scenarios due to the limited time. 
-##### But I tried to show my vision.
+##### But I tried to show my vision for testing REST API.
 
 * Language: **Java**
 * Testing framework: **TestNG**
@@ -10,7 +10,7 @@
 * Library: **REST-assured**
 * CI: **Travis CI**
 
-###### I saved previous running reports and you can find it here:
+###### I saved previous execution results to the report and you can find it here:
 ```
 ./target/Report/index.html
 ```
