@@ -7,10 +7,10 @@ import org.apache.commons.lang3.RandomStringUtils;
  */
 public class Data {
 
-    public static final String CONSUMER_KEY = "BZt5jrkPYZSv9arc1lfbeHAIS";
-    public static final String CONSUMER_SECRET = "X3XW5xz7ghykXNbVgbb35TxgCBu9Ej8PV1bKGS9Vhj4Ee7ADRL";
-    public static final String ACCESS_TOKEN = "552663556-69F9cotfEaxTeAwMzsWLKi4oJtjcrfoUtJblKoKN";
-    public static final String ACCESS_TOKEN_SECRET = "22eDkSp9i5Z5UJ7CYBjuivpmKrjXc7POXxoIVNKOBGIrq";
+    public static final String CONSUMER_KEY;
+    public static final String CONSUMER_SECRET;
+    public static final String ACCESS_TOKEN;
+    public static final String ACCESS_TOKEN_SECRET";
 
     public static final String BASE_URI = "https://api.twitter.com";
 
